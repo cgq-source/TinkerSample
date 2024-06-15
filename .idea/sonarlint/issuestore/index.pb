@@ -1,0 +1,33 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+y
+Iapp/src/main/java/com/example/tinkertest/reporter/SampleLoadReporter.java,f\d\fdc61728641a9579a4dda9d3b2e03ea44bd5ffd9
+z
+Japp/src/main/java/com/example/tinkertest/reporter/SamplePatchReporter.java,b\6\b632810a755cb2aca220397db0a30b3b1c76864f
+y
+Iapp/src/main/java/com/example/tinkertest/reporter/SampleTinkerReport.java,3\3\33879af64ea4f64688f3242c9a4276eb32f1d27f
+c
+3app/src/main/java/com/example/tinkertest/Utils.java,a\0\a0f9ed6e4d1cf00da9eaa44936e92e3e15f981e4
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+A
+app/tinker.gradle,3\6\3680fe206e14ce57a51f994afd518773936ebf96
+o
+?app/src/main/java/com/example/tinkertest/SampleApplication.java,6\b\6b0fd39b79d773764dabc25c922c111da705eb11
+j
+:app/src/main/java/com/example/tinkertest/MainActivity.java,4\5\45db93ea0b104f3ae66395813b773930c58bc74b
+s
+Capp/src/main/java/com/example/tinkertest/SampleApplicationLike.java,1\2\124aab8e02adc3c6ab2ce80d1acf58c3b04206e5
+q
+Aapp/src/main/java/com/example/tinkertest/SampleResultService.java,5\9\591d40a91824bbe43d18c98ec8722ff293f2b9a6
+k
+;app/src/main/java/com/example/tinkertest/TinkerManager.java,3\9\3916f42cdab271f489308e6c168a300d7f723191
+z
+Japp/src/main/java/com/example/tinkertest/reporter/SamplePatchListener.java,3\8\383293a2ae0231557c55a28f7b4e8ce3924cae84

@@ -1,0 +1,15 @@
+
+F
+java:S1066²"/Merge this if statement with the enclosing one.(Æ¥ 
+Z
+java:S2583E"DChange this condition so that it does not always evaluate to "false"(·ÿé
+P
+java:S1118%":Add a private constructor to hide the implicit public one.(¼Øûì
+Q
+java:S1874L";Remove this use of "checkRomSpaceEnough"; it is deprecated.(Î¯‘’
+P
+java:S1133_"5Do not forget to remove this deprecated code someday.(¨éş ıÿÿÿÿ
+C
+java:S1123_"(Add the missing @deprecated Javadoc tag.(¨éş ıÿÿÿÿ
+\
+java:S1126k"AReplace this if-then-else statement by a single return statement.(ŞïØ§ÿÿÿÿÿ

@@ -1,0 +1,11 @@
+
+\
+java:S2184+"FCast one of the operands of this multiplication operation to a "long".(œÈ–Œ
+]
+java:S1854J"BRemove this useless assignment to local variable "fastCrashCount".(âŞüùÿÿÿÿ
+U
+java:S1874H":Remove this use of "MODE_MULTI_PROCESS"; it is deprecated.(Ô”¢ øÿÿÿÿ
+N
+java:S1481J"3Remove this unused "fastCrashCount" local variable.(âŞüùÿÿÿÿ
+Q	java:S125K"<This block of commented-out lines of code should be removed.(ô¯Õã
+V	java:S125Y"<This block of commented-out lines of code should be removed.(´ÓÛïùÿÿÿÿ

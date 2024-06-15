@@ -1,0 +1,14 @@
+
+C
+java:S16047"(Make this anonymous inner class a lambda(ôÃñ¢ûÿÿÿÿ
+f
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(ìãß úÿÿÿÿ
+`
+java:S1124#"EReorder the modifiers to comply with the Java Language Specification.(§Îº¹ýÿÿÿÿ
+<	java:S1312""Add a default case to this switch.(ìãß úÿÿÿÿ
+P
+java:S22097"5Change this instance-reference to a static reference.(ôÃñ¢ûÿÿÿÿ
+>
+java:S1185n"(Remove this method to simply inherit it.(„µëÔ
+B
+java:S1068#"'Remove this unused "TAG" private field.(§Îº¹ýÿÿÿÿ

@@ -1,0 +1,29 @@
+
+C
+java:S5411""(Use a primitive boolean expression here.(Ìð’Œþÿÿÿÿ
+Y
+java:S1874"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(“¾ý•
+v
+java:S3923""[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ìð’Œþÿÿÿÿ
+>
+java:S11720"(Remove this unused method parameter "v".(ø‰Ÿ
+>
+java:S11727"(Remove this unused method parameter "v".(…¸üð
+g
+java:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(¿¥’
+;
+java:S3457<"%String contains no format specifiers.(¿¥’
+l
+java:S3457?"Q%n should be used in place of \n to produce the platform-specific line separator.(½Ê¤Òûÿÿÿÿ
+g
+java:S3457@"Q%n should be used in place of \n to produce the platform-specific line separator.(ã¥Ýâ
+l
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(”ƒ¿çüÿÿÿÿ
+l
+java:S3457D"Q%n should be used in place of \n to produce the platform-specific line separator.(µàáÂøÿÿÿÿ
+@
+java:S3457D"%String contains no format specifiers.(µàáÂøÿÿÿÿ
+g
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(¡çÊå
+>
+java:S1172P"(Remove this unused method parameter "v".(Â“›þ

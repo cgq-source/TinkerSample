@@ -5,11 +5,11 @@ ext {
     //for some reason, you may want to ignore tinkerBuild, such as instant run debug build?
     tinkerEnabled = true
     //基准apk路径
-    tinkerOldApkPath = "${bakPath}/app-debug-0913-17-09-36.apk"
+    tinkerOldApkPath = "${bakPath}/app-release-0615-16-34-44.apk"
     //未开启混淆，则不需要填写
     tinkerApplyMappingPath = "${bakPath}/"
     //基准apk中的R文件路径
-    tinkerApplyResourcePath = "${bakPath}/app-debug-0913-17-09-36-R.txt"
+    tinkerApplyResourcePath = "${bakPath}/app-release-0615-16-34-44-R.txt"
     //如果你修复了res文件，需要指定你bug版本的R.txt文件
     tinkerBuildFlavorDirectory = "${bakPath}/"
 
